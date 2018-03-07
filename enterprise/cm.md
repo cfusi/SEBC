@@ -289,6 +289,6 @@ _Use CM to answer the following questions. For some questions, search will help 
   * Report the latest available version of the API
   * Report the CM version 
   * List all CM users
-  * Report the database server in use by CM
+  * Report the database server type in use by CM (mysql, oracle, ...)
 * Add these API calls and their output to `enterprise/labs/4_API_upgrade_calls.md`
 * Label the Issue `review`
