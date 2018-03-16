@@ -6,7 +6,7 @@
 ---
 <div style="page-break-after: always;"></div>
 
-# <center> Challenges - March 16, 2018 - Amsterdam, CA
+# <center> Challenges - March 16, 2018 - Amsterdam, NL
 
 * Overview
   * Build a CM-managed CDH cluster and secure it
